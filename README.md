@@ -3,9 +3,10 @@
 Look into this github repo https://github.com/niklasf/python-chess
 
 ## TODO:
-Griffin
+ Griffin
 - 2 and 2.1
-Chase
+
+ Chase
 - Finish Introduction
   
   
